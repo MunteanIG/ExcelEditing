@@ -1,6 +1,6 @@
 ﻿namespace ExcelEditing
 {
-    partial class Form1
+    partial class Meniu
     {
         /// <summary>
         /// Required designer variable.

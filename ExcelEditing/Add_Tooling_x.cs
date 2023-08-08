@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ExcelEditing
 {
-    public partial class Form1 : Form
+    public partial class Add_Tooling_x : Form
     {
-        public Form1()
+        public Add_Tooling_x()
         {
             InitializeComponent();
         }
